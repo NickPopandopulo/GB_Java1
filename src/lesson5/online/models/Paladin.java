@@ -1,4 +1,4 @@
-package Lesson05.online;
+package lesson5.online.models;
 
 import Lesson05.online.models.Hero;
 
@@ -28,7 +28,7 @@ public class Paladin extends Hero {
     }
 
     @Override
-    public void jump() {
+    protected void jump() {
         System.out.println("Jump Paladin");
     }
 

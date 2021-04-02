@@ -1,4 +1,4 @@
-package Lesson05.online;
+package lesson5.online.models;
 
 /**
  * Created by Aleksandr Gladkov [Anticisco]

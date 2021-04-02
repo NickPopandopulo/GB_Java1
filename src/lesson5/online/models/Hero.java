@@ -1,7 +1,5 @@
 package Lesson05.online.models;
 
-import Lesson05.online.Lesson05;
-
 /**
  * Created by Aleksandr Gladkov [Anticisco]
  * Date: 31.03.2021
