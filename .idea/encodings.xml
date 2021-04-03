@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/lesson6/homework/file_1.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lesson6/homework/file_1_2.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lesson6/homework/file_2.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lesson6/homework/forSearching/out.dat" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lesson6/homework/forSearching/text.out" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/lesson6/homework/test.txt" charset="windows-1251" />
+  </component>
+</project>
