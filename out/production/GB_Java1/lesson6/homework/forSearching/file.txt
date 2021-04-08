@@ -1,0 +1,7 @@
+This notice is to inform users that the SOFA Board is issuing a Minor Release (17a) to both the Fortran and ANSI C
+versions of Release 17 of the SOFA software library on 2021 February 24 at 12:00 UTC. The change relates to dealing
+with leap seconds during the period 1960 and 1971. Between the introduction of UTC at the start of 1960 and the first
+leap second at the end of 1971 there were a series of small offsets and rate changes with respect to TAI. The SOFA
+routine D2DTF takes these into account, but a shortcoming in the algorithm meant that under certain conditions a leap
+second could be flagged even though none had occurred. Such cases were extremely rare, and moreover depended to some
+extent on compiler behaviour, affecting rounding.
