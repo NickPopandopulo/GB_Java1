@@ -1,4 +1,4 @@
-package Lesson07.online;
+package lesson7_.online;
 
 import javax.swing.*;
 import java.awt.*;
